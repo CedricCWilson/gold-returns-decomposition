@@ -23,5 +23,5 @@ residuals.
 ## Data
 
 All data is pulled from freely available sources (Yahoo Finance, FRED,
-[https://www.matteoiacoviello.com/gpr.htm|Caldara–Iacoviello GPR]). Raw data is not committed; see `src/` for the
+[Caldara–Iacoviello GPR|https://www.matteoiacoviello.com/gpr.htm]). Raw data is not committed; see `src/` for the
 retrieval pipeline.
