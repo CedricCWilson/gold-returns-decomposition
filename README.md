@@ -3,6 +3,12 @@ A project analyzing the residuals after regressing gold returns on known depende
 
 **Status:** In progress.
 
+## Pre-registration
+
+The specification, hypotheses, and analysis protocol are committed in
+[PREREGISTRATION.md](PREREGISTRATION.md) prior to examination of
+residuals.
+
 ## Approach
 
 Gold returns (GLD) are modeled against real rates (10Y TIPS), inflation
@@ -14,11 +20,6 @@ GPR, threat and act components).
 The residual is then characterized for autocorrelation, volatility
 clustering, and regime dependence.
 
-## Pre-registration
-
-The specification, hypotheses, and analysis protocol are committed in
-[PREREGISTRATION.md](PREREGISTRATION.md) prior to examination of
-residuals.
 
 ## Data
 
