@@ -17,8 +17,8 @@ volatility (VIX), industrial metals (COMEX copper), oil (WTI), equity
 market returns (S&P 500), and geopolitical risk (Caldara–Iacoviello
 GPR, threat and act components).
 
-The residual is then characterized for autocorrelation, volatility
-clustering, and regime dependence.
+The residual is then characterized for regime dependence, volatility
+clustering, and autocorrelation.
 
 
 ## Data
